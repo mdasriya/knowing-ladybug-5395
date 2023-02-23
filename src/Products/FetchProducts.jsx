@@ -36,7 +36,6 @@ if(loading){
 </Box>
 }
 
-console.log("data", data)
   return (
 <div>
 {
