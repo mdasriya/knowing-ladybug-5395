@@ -1,0 +1,88 @@
+.b{
+    /* border: 1px solid red; */
+    padding-left: 9px;
+
+    width: 80%;
+   
+}
+
+.b:hover{
+ cursor: pointer;
+ border-bottom: 1px solid black;
+}
+
+.Cart_image:hover{
+    width: 500px;
+    cursor: pointer;
+}
+figure {
+
+	margin: 0;
+	padding: 0;
+	background: #fff;
+	overflow: hidden;
+}
+
+.hover01 figure:hover img {
+	opacity: 1;
+	-webkit-animation: flash 1.9s;
+	animation: flash 1.9s;
+}
+@-webkit-keyframes flash {
+	0% {
+		opacity: .4;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+@keyframes flash {
+	0% {
+		opacity: .4;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+
+.home{
+   color: rgb(150, 148, 148);
+}
+.home:hover{
+    cursor: pointer;
+    border-bottom: 1px solid gray;
+}
+
+
+
+/* Sticky  */
+div.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    padding: 10px;
+    background-color: white;
+    border: 1px solid black;
+    margin-top: 10px;
+  }
+
+  .filter_box{
+	border:1px solid black;
+	width:130px;
+   align-items:center;
+
+  }
+  .filter_box:hover{
+	cursor: pointer;
+	background-color: rgb(224, 224, 224);
+  }
+  /* Sticky  */
+
+
+  /* *****************************************SinglePage************************************************* */
+.AddtoCart{
+	width: 100%;
+	background-color: black;
+}
+
+  /* *****************************************SinglePage************************************************* */

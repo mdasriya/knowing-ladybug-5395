@@ -134,12 +134,14 @@ function Middle() {
       </VStack>
     </Flex>
     <br />
-    <Box w='80%' ml={20} pt={2} pb={4} color='black'>
+    <div style={{ width:"100%",margin:"auto", backgroundColor:"#F7FAFC" }}>
+    <Box w='80%' ml={20} pt={2} pb={4} color='black' >
     <Text as='b'>CRATE & BARREL HISTORY</Text>
   <Text>
   With over 100 stores in North America and franchise partners in 9 countries, Crate & Barrel,  <Text className ="underLineText" as='u'>Crate & Kids </Text> and CB2 are the international destination for lasting, modern <Text className ="underLineText" as='u'>furniture </Text>, textiles, <Text className ="underLineText"as='u'>kitchen </Text>, <Text className ="underLineText" as='u'>tableware</Text> and  <Text className ="underLineText" as='u'>home decore</Text> .  See More →→
   </Text>
 </Box>
+</div>
 
 
     </div>

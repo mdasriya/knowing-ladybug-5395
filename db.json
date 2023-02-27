@@ -1,443 +1,225 @@
 {
-  "products":[ {
-    "id": 1,
-    "title":"Tidal 2-Piece Sectional Sofa with Left-Arm Chaise",
-    "image":"https://cb.scene7.com/is/image/Crate/Tidal2RSfLChsOsShSOSSS23_3D/$web_plp_card$/230206101437/tidal-2-piece-sectional-sofa-with-left-arm-chaise.jpg",
-    "price":3218.00,
-    "svg":"https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard"
-   
-  },
-  {
-    "id": 2,
-    "title":"Valen Swivel Accent Chair",
-    "image":"https://cb.scene7.com/is/image/Crate/ValenAccentChairCvTaupeSOSSS23/$web_plp_card$/221130112341/valen-swivel-accent-chair.jpg",
-    "price":1299.00,
-    "svg":"https://cb.scene7.com/is/content/Crate/svg-icon-csr-bug-fsc"
-   
-  },
-  {
-    "id": 3,
-    "title":"Horizon 89 Upholstered Sofa",
-    "image":"https://cb.scene7.com/is/image/Crate/Horizon90inSofaWOatSOSSS23_3D/$web_plp_card$/230119165328/horizon-89-upholstered-sofa.jpg",
-    "price":2499.00,
-    "svg":"https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard"
-   
-  },
-  {
-    "id": 4,
-    "title":"Horizon 89 Upholstered Sofa",
-    "image":"https://cb.scene7.com/is/image/Crate/Horizon90inSofaWOatSOSSS23_3D/$web_plp_card$/230119165328/horizon-89-upholstered-sofa.jpg",
-    "price":2499.00,
-    "svg":"https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard"
-   
-  },
-  {
-    "id": 5,
-    "title":"Lounge Deep Leather Sofa 93",
-    "image":"https://cb.scene7.com/is/image/Crate/LoungeDpLthrSofa93inSOSSS23/$web_plp_card$/230217111706/lounge-deep-leather-sofa-93.jpg",
-    "price":3699.00,
-    "svg":"https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard"
-   
-  },
-  {
-    "id": 6,
-    "title":"Escondido Acacia Wood Canopy Bed Frame sofa",
-    "image":"https://cb.scene7.com/is/image/Crate/EscondidoQueenCanopyBedSOSSF22/$web_plp_card$/220927113255/escondido-acacia-wood-canopy-bed-frame.jpg",
-    "price":2499.00,
-    "svg":"https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard"
-   
-  },
-  {
-    "id": 7,
-    "title":"Lafayette 56 Mist Grey Upholstered Headboard with Storage Bed Base sofa",
-    "image":"https://cb.scene7.com/is/image/Crate/Lfyt56LMGyQUpHdStgBBSOSSS23_3D/$web_plp_card$/221116163558/lafayette-56-hb-link-mist-w-uph-stg-bs.jpg",
-    "price":2798.00,
-    "svg":"https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard"
-   
-  },
-  {
-    "id": 8,
-    "title":"Arvada 54 Dark Grey Upholstered Headboard with Storage Bed Base sofa",
-    "image":"https://cb.scene7.com/is/image/Crate/Arvd54AnDGQUpHdSBB3QSSS23_3D/$web_plp_card$/230206163034/arvada-54-dark-grey-upholstered-headboard-with-storage-bed-base.jpg",
-    "price":2598.00,
-    "svg":"https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard"
-   
-  },
-  {
-    "id": 9,
-    "title":"Arden 60 Natural Beige Upholstered Headboard with Batten White Oak Storage Bed Base sofa",
-    "image":"https://cb.scene7.com/is/image/Crate/Arden60LkNBQUpHdBWOSBB3QSSS23_3D/$web_plp_card$/230206163026/arden-60-natural-beige-upholstered-headboard-with-batten-white-oak-storage-bed-base.jpg",
-    "price":2598.00,
-    "svg":"https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard"
-   
-  },
-  {
-    "id": 10,
-    "title":"Petrie Velvet Mid-Century Chair",
-    "image":"https://cb.scene7.com/is/image/Crate/PetrieChairCO…/230127143453/petrie-velvet-mid-century-chair.jpg",
-    "price":1899.00,
-    "svg":"https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard",
-    "category":"chair"
-  },
-  {
-    "id": 11,
-    "title":"Pose Natural Wood and Leather Accent Chair",
-    "image":"https://cb.scene7.com/is/image/Crate/PoseNatLthrCh…ard$/230123100251/pose-leather-chair--natural.jpg",
-    "price":1599.00,
-    "svg":"https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard",
-    "category":"chair"
-  },
-  {
-    "id": 12,
-    "title":"Wells Leather Chair",
-    "image":"https://cb.scene7.com/is/image/Crate/WellsLthrChai…card$/200720144738/wells-leather-tuxedo-chair.jpg",
-    "price":1899.00,
-    "svg":"https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard",
-    "category":"chair"
-  },
-  {
-    "id": 13,
-    "title":"Drew Small Swivel Accent Chair",
-    "image":"https://cb.scene7.com/is/image/Crate/DrewSwivelCha…S22_3D/$web_plp_card$/211004154256/new-family.jpg",
-    "price":1099.00,
-    "svg":"https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard",
-    "category":"chair"
-  },
-  {
-    "id": 14,
-    "title":"Valen Swivel Accent Chair",
-    "image":"https://cb.scene7.com/is/image/Crate/ValenAccentCh…_card$/221130112341/valen-swivel-accent-chair.jpg",
-    "price":1299.00,
-    "svg":"https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard",
-    "category":"chair"
-  },
-  {
-    "id": 15,
-    "title":"Fields Cane Back Charcoal Accent Chair",
-    "image":"https://cb.scene7.com/is/image/Crate/FieldsCaneBck…_plp_card$/200128150407/fields-chair-charcoal.jpg",
-    "price":999.00,
-    "svg":"https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard",
-    "category":"chair"
-  },
-  {
-    "id": 16,
-    "title":"Ojai Leather Wood Frame Accent Chair",
-    "image":"https://cb.scene7.com/is/image/Crate/OjaiWdFrmAccn…_card$/220505141410/ojai-accent-chair-leather.jpg",
-    "price":1499.00,
-    "svg":"https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard",
-    "category":"chair"
-  },
-  {
-    "id": 17,
-    "title":"Gather Deep Swivel Chair",
-    "image":"https://cb.scene7.com/is/image/Crate/GatherSwvlChr…eb_plp_card$/200820160643/gather-swivel-chair.jpg",
-    "price":1149.00,
-    "svg":"https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard",
-    "category":"chair"
-  },
-  {
-    "id": 18,
-    "title":"Polly Ivory Accent Chair",
-    "image":"https://cb.scene7.com/is/image/Crate/PollyChairCbl…p_card$/190725130347/polly-ivory-accent-chair.jpg",
-    "price":789.00,
-    "svg":"https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard",
-    "category":"chair"
-  },
-  {
-    "id": 19,
-    "title":"Dillon Spalted Primavera Round Wood Coffee Table",
-    "image":"https://cb.scene7.com/is/image/Crate/HudsonCoffeeT…lon-spalted-primavera-round-wood-coffee-table.jpg",
-    "price":1899.00,
-    "svg":"https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard",
-    "category":"table"
-  },
-  {
-    "id": 20,
-    "title":"Vander Rectangular Charcoal Wood Storage Coffee Table",
-    "image":"https://cb.scene7.com/is/image/Crate/HudsonCoffeeT…lon-spalted-primavera-round-wood-coffee-table.jpg",
-    "price":999.00,
-    "svg":"https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard",
-    "category":"table"
-  },
-  {
-    "id": 21,
-    "title":"Echelon Round Coffee Table with Shelf",
-    "image":"https://cb.scene7.com/is/image/Crate/EchelonCoffee…card$/200623154642/echelon-round-coffee-table.jpg",
-    "price":699.00,
-    "svg":"https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard",
-    "category":"table"
-  },
-  {
-    "id": 22,
-    "title":"Fernando Oval Metal Drum Coffee Table",
-    "image":"https://cb.scene7.com/is/image/Crate/FernandoOvalC…card$/211124124406/fernando-oval-coffee-table.jpg",
-    "price":1999.00,
-    "svg":"https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard",
-    "category":"table"
-  },
-  {
-    "id": 23,
-    "title":"Icon Rectangular Pine Wood Coffee Table",
-    "image":"https://cb.scene7.com/is/image/Crate/ArraySqCoffeeTableSHS20_1x1/$web_plp_card$/200219154449/array-square-coffee-table.jpg",
-    "price":1799.00,
-    "svg":"https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard",
-    "category":"table"
-  },
-  {
-    "id": 24,
-    "title":"Mitchell Ebony Nesting Coffee Table with Seating",
-    "image":"https://cb.scene7.com/is/image/Crate/MitchellGthrCffTblBlkSOSSF21/$web_plp_card$/210611151734/mitchell-ebony-coffee-table.jpg",
-    "price":1599.00,
-    "svg":"https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard",
-    "category":"table"
-  },
-  {
-    "id": 25,
-    "title":"Damen Marble Coffee Table with Black Base",
-    "image":"https://cb.scene7.com/is/image/Crate/DamenMrblCoffeeTblBlkBsSOSSF22/$web_plp_card$/220812114358/damen-marble-coffee-table-with-black-base.jpg",
-    "price":1699.00,
-    "svg":"https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard",
-    "category":"table"
-  },
-  {
-    "id": 27,
-    "title":"Elke Round Glass Coffee Table with Brass Base",
-    "image":"https://cb.scene7.com/is/image/Crate/ElkeRoundCoffeeTableGlssTpSOSSS20_1x1/$web_plp_card$/200623154645/elke-round-glass-coffee-table-with-brass-base.jpg",
-    "price":739.00,
-    "svg":"https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard",
-    "category":"table"
-  },
-  {
-    "id": 27,
-    "title":"Tabatha Coffee Table",
-    "image":"https://cb.scene7.com/is/image/Crate/TabathaCoffeeTableRndSOS19_1x1/$web_plp_card$/190411135458/tabatha-coffee-table.jpg",
-    "price":449.00,
-    "svg":"https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard",
-    "category":"table"
-  }
-  ],
-  
-  "sofa": [
+  "products": [
     {
       "id": 1,
-      "title":"Tidal 2-Piece Sectional Sofa with Left-Arm Chaise",
-      "image":"https://cb.scene7.com/is/image/Crate/Tidal2RSfLChsOsShSOSSS23_3D/$web_plp_card$/230206101437/tidal-2-piece-sectional-sofa-with-left-arm-chaise.jpg",
-      "price":3218.00,
-      "svg":"https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard"
-     
+      "title": " 2-Piece Sectional Sofa ",
+      "image": "https://cb.scene7.com/is/image/Crate/Tidal2RSfLChsOsShSOSSS23_3D/$web_plp_card$/230206101437/tidal-2-piece-sectional-sofa-with-left-arm-chaise.jpg",
+      "price": 3218,
+      "svg": "https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard"
     },
     {
       "id": 2,
-      "title":"Valen Swivel Accent Chair",
-      "image":"https://cb.scene7.com/is/image/Crate/ValenAccentChairCvTaupeSOSSS23/$web_plp_card$/221130112341/valen-swivel-accent-chair.jpg",
-      "price":1299.00,
-      "svg":"https://cb.scene7.com/is/content/Crate/svg-icon-csr-bug-fsc"
-     
+      "title": "Valen Swivel Accent Chair",
+      "image": "https://cb.scene7.com/is/image/Crate/ValenAccentChairCvTaupeSOSSS23/$web_plp_card$/221130112341/valen-swivel-accent-chair.jpg",
+      "price": 1299,
+      "svg": "https://cb.scene7.com/is/content/Crate/svg-icon-csr-bug-fsc"
     },
     {
       "id": 3,
-      "title":"Horizon 89 Upholstered Sofa",
-      "image":"https://cb.scene7.com/is/image/Crate/Horizon90inSofaWOatSOSSS23_3D/$web_plp_card$/230119165328/horizon-89-upholstered-sofa.jpg",
-      "price":2499.00,
-      "svg":"https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard"
-     
+      "title": "Horizon 89 Upholstered Sofa",
+      "image": "https://cb.scene7.com/is/image/Crate/Horizon90inSofaWOatSOSSS23_3D/$web_plp_card$/230119165328/horizon-89-upholstered-sofa.jpg",
+      "price": 2499,
+      "svg": "https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard"
     },
     {
       "id": 4,
-      "title":"Horizon 89 Upholstered Sofa",
-      "image":"https://cb.scene7.com/is/image/Crate/Horizon90inSofaWOatSOSSS23_3D/$web_plp_card$/230119165328/horizon-89-upholstered-sofa.jpg",
-      "price":2499.00,
-      "svg":"https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard"
-     
+      "title": "Upholstered Sofa",
+      "image": "https://cb.scene7.com/is/image/Crate/Horizon90inSofaWOatSOSSS23_3D/$web_plp_card$/230119165328/horizon-89-upholstered-sofa.jpg",
+      "price": 2499,
+      "svg": "https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard"
     },
     {
       "id": 5,
-      "title":"Lounge Deep Leather Sofa 93",
-      "image":"https://cb.scene7.com/is/image/Crate/LoungeDpLthrSofa93inSOSSS23/$web_plp_card$/230217111706/lounge-deep-leather-sofa-93.jpg",
-      "price":3699.00,
-      "svg":"https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard"
-     
+      "title": "Lounge Deep Leather Sofa ",
+      "image": "https://cb.scene7.com/is/image/Crate/LoungeDpLthrSofa93inSOSSS23/$web_plp_card$/230217111706/lounge-deep-leather-sofa-93.jpg",
+      "price": 3699,
+      "svg": "https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard"
     },
     {
       "id": 6,
-      "title":"Escondido Acacia Wood Canopy Bed Frame sofa",
-      "image":"https://cb.scene7.com/is/image/Crate/EscondidoQueenCanopyBedSOSSF22/$web_plp_card$/220927113255/escondido-acacia-wood-canopy-bed-frame.jpg",
-      "price":2499.00,
-      "svg":"https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard"
-     
+      "title": "Escondido Acacia  sofa",
+      "image": "https://cb.scene7.com/is/image/Crate/EscondidoQueenCanopyBedSOSSF22/$web_plp_card$/220927113255/escondido-acacia-wood-canopy-bed-frame.jpg",
+      "price": 2499,
+      "svg": "https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard"
     },
     {
       "id": 7,
-      "title":"Lafayette 56 Mist Grey Upholstered Headboard with Storage Bed Base sofa",
-      "image":"https://cb.scene7.com/is/image/Crate/Lfyt56LMGyQUpHdStgBBSOSSS23_3D/$web_plp_card$/221116163558/lafayette-56-hb-link-mist-w-uph-stg-bs.jpg",
-      "price":2798.00,
-      "svg":"https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard"
-     
+      "title": "Headboard with Storage Bed Base sofa",
+      "image": "https://cb.scene7.com/is/image/Crate/Lfyt56LMGyQUpHdStgBBSOSSS23_3D/$web_plp_card$/221116163558/lafayette-56-hb-link-mist-w-uph-stg-bs.jpg",
+      "price": 2798,
+      "svg": "https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard"
     },
     {
       "id": 8,
-      "title":"Arvada 54 Dark Grey Upholstered Headboard with Storage Bed Base sofa",
-      "image":"https://cb.scene7.com/is/image/Crate/Arvd54AnDGQUpHdSBB3QSSS23_3D/$web_plp_card$/230206163034/arvada-54-dark-grey-upholstered-headboard-with-storage-bed-base.jpg",
-      "price":2598.00,
-      "svg":"https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard"
-     
+      "title": "Arvada 54 Dark Grey sofa",
+      "image": "https://cb.scene7.com/is/image/Crate/Arvd54AnDGQUpHdSBB3QSSS23_3D/$web_plp_card$/230206163034/arvada-54-dark-grey-upholstered-headboard-with-storage-bed-base.jpg",
+      "price": 2598,
+      "svg": "https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard"
     },
     {
       "id": 9,
-      "title":"Arden 60 Natural Beige Upholstered Headboard with Batten White Oak Storage Bed Base sofa",
-      "image":"https://cb.scene7.com/is/image/Crate/Arden60LkNBQUpHdBWOSBB3QSSS23_3D/$web_plp_card$/230206163026/arden-60-natural-beige-upholstered-headboard-with-batten-white-oak-storage-bed-base.jpg",
-      "price":2598.00,
-      "svg":"https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard"
-     
+      "title": " Headboard Oak Bed Base sofa",
+      "image": "https://cb.scene7.com/is/image/Crate/Arden60LkNBQUpHdBWOSBB3QSSS23_3D/$web_plp_card$/230206163026/arden-60-natural-beige-upholstered-headboard-with-batten-white-oak-storage-bed-base.jpg",
+      "price": 2598,
+      "svg": "https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard"
+    },
+    {
+      "id": 10,
+      "title": "Petrie  Mid-Century Chair",
+      "image": "https://cb.scene7.com/is/image/Crate/FieldsCaneBckAcntChairChrSHS20_1x1/$web_plp_card$/200128150407/fields-chair-charcoal.jpg",
+      "price": 1899,
+      "svg": "https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard",
+      "category": "chair"
+    },
+    {
+      "id": 11,
+      "title": " Wood and Leather Accent Chair",
+      "image": "https://cb.scene7.com/is/image/Crate/ValenAccentChairCvTaupeSOSSS23/$web_plp_card$/221130112341/valen-swivel-accent-chair.jpg",
+      "price": 1599,
+      "svg": "https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard",
+      "category": "chair"
+    },
+    {
+      "id": 12,
+      "title": "Wells Leather Chair",
+      "image": "https://cb.scene7.com/is/image/Crate/DrewSwivelChairSmlBDSOSSS22_3D/$web_plp_card$/211004154256/new-family.jpg",
+      "price": 1899,
+      "svg": "https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard",
+      "category": "chair"
+    },
+    {
+      "id": 13,
+      "title": "Drew Small Accent Chair",
+      "image": "https://cb.scene7.com/is/image/Crate/RumfordAccentChairSOSSS23/$web_plp_card$/230112153252/rumford-accent-chair-by-jake-arnold.jpg",
+      "price": 1099,
+      "svg": "https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard",
+      "category": "chair"
+    },
+    {
+      "id": 14,
+      "title": "Valen Swivel Accent Chair",
+      "image": "https://cb.scene7.com/is/image/Crate/PoseNatLthrChairSOSSS23/$web_plp_card$/230123100251/pose-leather-chair--natural.jpg",
+      "price": 1299,
+      "svg": "https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard",
+      "category": "chair"
+    },
+    {
+      "id": 15,
+      "title": "Fields Cane Back Accent Chair",
+      "image": "https://cb.scene7.com/is/image/Crate/MuirfieldAccentChairSOSSS23/$web_plp_card$/220908114659/muirfield-sculptural-metal-accent-chair.jpg",
+      "price": 999,
+      "svg": "https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard",
+      "category": "chair"
+    },
+    {
+      "id": 16,
+      "title": "Ojai Leather Accent Chair",
+      "image": "https://cb.scene7.com/is/image/Crate/WellsLthrChairCynSOSSF20_1x1/$web_plp_card$/200720144738/wells-leather-tuxedo-chair.jpg",
+      "price": 1499,
+      "svg": "https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard",
+      "category": "chair"
+    },
+    {
+      "id": 17,
+      "title": "Gather Deep Swivel Chair",
+      "image": "https://cb.scene7.com/is/image/Crate/PetrieChairCOSOSSS23_3D/$web_plp_card$/230127143453/petrie-velvet-mid-century-chair.jpg",
+      "price": 1149,
+      "svg": "https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard",
+      "category": "chair"
+    },
+    {
+      "id": 18,
+      "title": "Polly Ivory Accent Chair",
+      "image": "https://cb.scene7.com/is/image/Crate/AmbieAccentChairSOSSS23/$web_plp_card$/221006170251/ambie-walnut-wood-accent-chair-by-jake-arnold.jpg",
+      "price": 789,
+      "svg": "https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard",
+      "category": "chair"
+    },
+    {
+      "id": 19,
+      "title": "Dillon Spalted Coffee Table",
+      "image": "https://cb.scene7.com/is/image/Crate/EchelonCoffeeTableSOSSS20_1x1/$web_pdp_main_carousel_med$/200623154642/echelon-round-coffee-table.jpg",
+      "price": 1899,
+      "svg": "https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard",
+      "category": "table"
+    },
+    {
+      "id": 20,
+      "title": "Vander Rectangular Coffee Table",
+      "image": "https://cb.scene7.com/is/image/Crate/KnurlNestingCoffeeSmAndLgS2SSS20_1x1/$web_pdp_main_carousel_med$/200623154644/knurl-nesting-coffee-tables-set-of-two.jpg",
+      "price": 999,
+      "svg": "https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard",
+      "category": "table"
+    },
+    {
+      "id": 21,
+      "title": "Echelon Round Coffee Table",
+      "image": "https://cb.scene7.com/is/image/Crate/Clairemont36RdCffTblNat3QSSS22/$web_plp_card$/220126171628/clairemont-36-rnd-cfetbl-ntrl.jpg",
+      "price": 699,
+      "svg": "https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard",
+      "category": "table"
+    },
+    {
+      "id": 22,
+      "title": "Fernando Oval Coffee Table",
+      "image": "https://cb.scene7.com/is/image/Crate/VanderRectCffTblCharSOSSS22/$web_pdp_main_carousel_med$/211209114601/vander-rectangle-cfe-tbl-chrcl.jpg",
+      "price": 1999,
+      "svg": "https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard",
+      "category": "table"
+    },
+    {
+      "id": 23,
+      "title": "Icon Rectangular Coffee Table",
+      "image": "https://cb.scene7.com/is/image/Crate/ArraySqCoffeeTableSHS20_1x1/$web_plp_card$/200219154449/array-square-coffee-table.jpg",
+      "price": 1799,
+      "svg": "https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard",
+      "category": "table"
+    },
+    {
+      "id": 24,
+      "title": "Mitchell Coffee Table with Seating",
+      "image": "https://cb.scene7.com/is/image/Crate/MitchellGthrCffTblBlkSOSSF21/$web_plp_card$/210611151734/mitchell-ebony-coffee-table.jpg",
+      "price": 1599,
+      "svg": "https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard",
+      "category": "table"
+    },
+    {
+      "id": 25,
+      "title": "Damen Marble Coffee Table",
+      "image": "https://cb.scene7.com/is/image/Crate/DamenMrblCoffeeTblBlkBsSOSSF22/$web_plp_card$/220812114358/damen-marble-coffee-table-with-black-base.jpg",
+      "price": 1699,
+      "svg": "https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard",
+      "category": "table"
+    },
+    {
+      "id": 26,
+      "title": "Elke Round Glass Coffee Table",
+      "image": "https://cb.scene7.com/is/image/Crate/ElkeRoundCoffeeTableGlssTpSOSSS20_1x1/$web_plp_card$/200623154645/elke-round-glass-coffee-table-with-brass-base.jpg",
+      "price": 739,
+      "svg": "https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard",
+      "category": "table"
+    },
+    {
+      "id": 27,
+      "title": "Tabatha Coffee Table",
+      "image": "https://cb.scene7.com/is/image/Crate/TabathaCoffeeTableRndSOS19_1x1/$web_plp_card$/190411135458/tabatha-coffee-table.jpg",
+      "price": 449,
+      "svg": "https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard",
+      "category": "table"
     }
   ],
-  "chair":[
+  "Cart": [
     {
-      "id": 1,
-      "title":"Petrie Velvet Mid-Century Chair",
-      "image":"https://cb.scene7.com/is/image/Crate/PetrieChairCO…/230127143453/petrie-velvet-mid-century-chair.jpg",
-      "price":1899.00,
-      "svg":"https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard",
-      "category":"chair"
+      "id": "18",
+      "title": "Polly Ivory Accent Chair",
+      "image": "https://cb.scene7.com/is/image/Crate/AmbieAccentChairSOSSS23/$web_plp_card$/221006170251/ambie-walnut-wood-accent-chair-by-jake-arnold.jpg",
+      "price": 789
     },
     {
-      "id": 2,
-      "title":"Pose Natural Wood and Leather Accent Chair",
-      "image":"https://cb.scene7.com/is/image/Crate/PoseNatLthrCh…ard$/230123100251/pose-leather-chair--natural.jpg",
-      "price":1599.00,
-      "svg":"https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard",
-      "category":"chair"
-    },
-    {
-      "id": 3,
-      "title":"Wells Leather Chair",
-      "image":"https://cb.scene7.com/is/image/Crate/WellsLthrChai…card$/200720144738/wells-leather-tuxedo-chair.jpg",
-      "price":1899.00,
-      "svg":"https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard",
-      "category":"chair"
-    },
-    {
-      "id": 4,
-      "title":"Drew Small Swivel Accent Chair",
-      "image":"https://cb.scene7.com/is/image/Crate/DrewSwivelCha…S22_3D/$web_plp_card$/211004154256/new-family.jpg",
-      "price":1099.00,
-      "svg":"https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard",
-      "category":"chair"
-    },
-    {
-      "id": 5,
-      "title":"Valen Swivel Accent Chair",
-      "image":"https://cb.scene7.com/is/image/Crate/ValenAccentCh…_card$/221130112341/valen-swivel-accent-chair.jpg",
-      "price":1299.00,
-      "svg":"https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard",
-      "category":"chair"
-    },
-    {
-      "id": 6,
-      "title":"Fields Cane Back Charcoal Accent Chair",
-      "image":"https://cb.scene7.com/is/image/Crate/FieldsCaneBck…_plp_card$/200128150407/fields-chair-charcoal.jpg",
-      "price":999.00,
-      "svg":"https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard",
-      "category":"chair"
-    },
-    {
-      "id": 7,
-      "title":"Ojai Leather Wood Frame Accent Chair",
-      "image":"https://cb.scene7.com/is/image/Crate/OjaiWdFrmAccn…_card$/220505141410/ojai-accent-chair-leather.jpg",
-      "price":1499.00,
-      "svg":"https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard",
-      "category":"chair"
-    },
-    {
-      "id": 8,
-      "title":"Gather Deep Swivel Chair",
-      "image":"https://cb.scene7.com/is/image/Crate/GatherSwvlChr…eb_plp_card$/200820160643/gather-swivel-chair.jpg",
-      "price":1149.00,
-      "svg":"https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard",
-      "category":"chair"
-    },
-    {
-      "id": 9,
-      "title":"Polly Ivory Accent Chair",
-      "image":"https://cb.scene7.com/is/image/Crate/PollyChairCbl…p_card$/190725130347/polly-ivory-accent-chair.jpg",
-      "price":789.00,
-      "svg":"https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard",
-      "category":"chair"
+      "id": "15",
+      "title": "Fields Cane Back Accent Chair",
+      "image": "https://cb.scene7.com/is/image/Crate/MuirfieldAccentChairSOSSS23/$web_plp_card$/220908114659/muirfield-sculptural-metal-accent-chair.jpg",
+      "price": 999
     }
-  ],
-  "table":[
-    {
-      "id": 1,
-      "title":"Dillon Spalted Primavera Round Wood Coffee Table",
-      "image":"https://cb.scene7.com/is/image/Crate/HudsonCoffeeT…lon-spalted-primavera-round-wood-coffee-table.jpg",
-      "price":1899.00,
-      "svg":"https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard",
-      "category":"table"
-    },
-    {
-      "id": 2,
-      "title":"Vander Rectangular Charcoal Wood Storage Coffee Table",
-      "image":"https://cb.scene7.com/is/image/Crate/HudsonCoffeeT…lon-spalted-primavera-round-wood-coffee-table.jpg",
-      "price":999.00,
-      "svg":"https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard",
-      "category":"table"
-    },
-    {
-      "id": 3,
-      "title":"Echelon Round Coffee Table with Shelf",
-      "image":"https://cb.scene7.com/is/image/Crate/EchelonCoffee…card$/200623154642/echelon-round-coffee-table.jpg",
-      "price":699.00,
-      "svg":"https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard",
-      "category":"table"
-    },
-    {
-      "id": 4,
-      "title":"Fernando Oval Metal Drum Coffee Table",
-      "image":"https://cb.scene7.com/is/image/Crate/FernandoOvalC…card$/211124124406/fernando-oval-coffee-table.jpg",
-      "price":1999.00,
-      "svg":"https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard",
-      "category":"table"
-    },
-    {
-      "id": 5,
-      "title":"Icon Rectangular Pine Wood Coffee Table",
-      "image":"https://cb.scene7.com/is/image/Crate/ArraySqCoffeeTableSHS20_1x1/$web_plp_card$/200219154449/array-square-coffee-table.jpg",
-      "price":1799.00,
-      "svg":"https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard",
-      "category":"table"
-    },
-    {
-      "id": 6,
-      "title":"Mitchell Ebony Nesting Coffee Table with Seating",
-      "image":"https://cb.scene7.com/is/image/Crate/MitchellGthrCffTblBlkSOSSF21/$web_plp_card$/210611151734/mitchell-ebony-coffee-table.jpg",
-      "price":1599.00,
-      "svg":"https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard",
-      "category":"table"
-    },
-    {
-      "id": 7,
-      "title":"Damen Marble Coffee Table with Black Base",
-      "image":"https://cb.scene7.com/is/image/Crate/DamenMrblCoffeeTblBlkBsSOSSF22/$web_plp_card$/220812114358/damen-marble-coffee-table-with-black-base.jpg",
-      "price":1699.00,
-      "svg":"https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard",
-      "category":"table"
-    },
-    {
-      "id": 8,
-      "title":"Elke Round Glass Coffee Table with Brass Base",
-      "image":"https://cb.scene7.com/is/image/Crate/ElkeRoundCoffeeTableGlssTpSOSSS20_1x1/$web_plp_card$/200623154645/elke-round-glass-coffee-table-with-brass-base.jpg",
-      "price":739.00,
-      "svg":"https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard",
-      "category":"table"
-    },
-    {
-      "id": 9,
-      "title":"Tabatha Coffee Table",
-      "image":"https://cb.scene7.com/is/image/Crate/TabathaCoffeeTableRndSOS19_1x1/$web_plp_card$/190411135458/tabatha-coffee-table.jpg",
-      "price":449.00,
-      "svg":"https://cb.scene7.com/is/content/Crate/svg-icon-csr-badge-greenguard",
-      "category":"table"
-    }
-   
   ]
 }
