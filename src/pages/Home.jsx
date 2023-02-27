@@ -3,6 +3,7 @@ import NavBar from './NavBar'
 import NavDropdown from './NavDropdown'
 import Middle from './Middle'
 import MyFooter from './MyFooter'
+import SlidingImage from './SlidingImage'
 
 function Home() {
   return (
@@ -10,6 +11,7 @@ function Home() {
 <NavBar />
 <NavDropdown />
 <Middle />
+<SlidingImage />
 <MyFooter />
     </div>
   )

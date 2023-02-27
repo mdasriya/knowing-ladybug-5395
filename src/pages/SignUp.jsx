@@ -12,13 +12,29 @@ import {
     Heading,
     Text,
     useColorModeValue,
-    Link,
   } from '@chakra-ui/react';
   import { useState } from 'react';
   import { ViewIcon, ViewOffIcon } from '@chakra-ui/icons';
-  
+  import { useToast } from '@chakra-ui/react'
+  import { useNavigate } from 'react-router-dom';
+  import { Link } from 'react-router-dom';
   export default function SignUp() {
     const [showPassword, setShowPassword] = useState(false);
+    const toast = useToast()
+    const navigate = useNavigate();
+    const handlesubmit = () => {
+   
+     
+      toast({
+          position: 'top',
+          title: 'User created Successfully',
+  
+          status: 'success',
+          duration: 3000,
+          isClosable: true,
+      })   
+navigate("/login")
+  }
   
     return (
       <Flex
@@ -31,9 +47,7 @@ import {
             <Heading fontSize={'4xl'} textAlign={'center'}>
               Sign up
             </Heading>
-            <Text fontSize={'lg'} color={'gray.600'}>
-              to enjoy all of our cool features ✌️
-            </Text>
+           
           </Stack>
           <Box
             rounded={'lg'}
@@ -80,16 +94,20 @@ import {
                   size="lg"
                   bg={'blue.400'}
                   color={'white'}
+                  onClick={handlesubmit}
                   _hover={{
                     bg: 'blue.500',
                   }}>
                   Sign up
                 </Button>
               </Stack>
+      
               <Stack pt={6}>
+<Link to="/login">
                 <Text align={'center'}>
-                  Already a user? <Link color={'blue.400'}>Login</Link>
+                  Already a user? <Text color={'blue.400'}>Login</Text>
                 </Text>
+                </Link>
               </Stack>
             </Stack>
           </Box>

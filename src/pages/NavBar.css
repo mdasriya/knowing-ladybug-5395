@@ -1,14 +1,18 @@
 .Mainnav{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     width: 100%;
     height: auto;
     display: flex;
     justify-content: space-around;
-    padding: 10px;
+    padding-top: 10px;
     align-items: center;
+    padding-right: 50px;
 }
 .Search{
     display: flex;
+}
+.LogoMain{
+  cursor: pointer;  
 }
 
 .fa-magnifying-glass:before, .fa-search:before {
@@ -18,7 +22,7 @@
 }
 .section3{
     /* border: 1px solid red; */
-    width: 270px; 
+    width: 220px; 
    display: flex;
    justify-content: space-between;
    padding: 10px;
@@ -43,11 +47,12 @@
     
 }
 
-.fa-cart-shopping{
+.fa-cart-shopping i{
     cursor: pointer; 
 }
-.heart:hover{
+.heart i:hover{
     border-bottom: 2px solid black;
+    padding-bottom: 10px;
 }
 
 
